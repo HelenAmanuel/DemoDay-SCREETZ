@@ -1,7 +1,7 @@
 # SCREETZ - (Demo Day Full Stack Application)
 Street Art Application where users can view and submit images of street art posted by other users.
 
-![alt tag](https://github.com/HelenAmanuel/BostonRecycles-FullStackApp/blob/master/Screen%20Shot%202019-11-17%20at%205.01.54%20PM.png)
+![alt tag](https://github.com/HelenAmanuel/DemoDay/blob/master/Screen%20Shot%202019-11-17%20at%207.19.25%20PM.png)
 
 ## Installation
 
